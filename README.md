@@ -29,43 +29,18 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
  
 
-> 🧠 Remove any badge you're not actively using — a smaller, accurate stack looks more credible than a long generic list.
 
-> 💡 Remove badges you don't use, and add more from [shields.io](https://shields.io) or [Simple Icons](https://simpleicons.org/).
-
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshohri&show_icons=true&theme=tokyonight" alt="vanshohri stats" width="48%" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshohri&theme=tokyonight" alt="vanshohri streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshohri&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
----
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshohri&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="mailto:vanshohri601@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
 ---
 
